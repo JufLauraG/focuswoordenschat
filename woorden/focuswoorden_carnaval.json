@@ -1,0 +1,35 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/carnaval vieren.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/carnaval vieren.webm",
+      "naam": "carnaval vieren"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/verkleden.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/verkleden.webm",
+      "naam": "verkleden"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de stoet.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de stoet.webm",
+      "naam": "de stoet"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de confetti.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de confetti.webm",
+      "naam": "de confetti"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de slingers.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de slingers.webm",
+      "naam": "de slingers"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/schminken.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/schminken.webm",
+      "naam": "schminken"
+    }
+  ]
+}
