@@ -1,0 +1,55 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de zee.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de zee.webm",
+      "naam": "de zee"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/het strand.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/het strand.webm",
+      "naam": "het strand"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de parasol.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de parasol.webm",
+      "naam": "de parasol"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/het ijsje.webm",
+      "naam": "het ijsje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/leeg.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/leeg.webm",
+      "naam": "leeg"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/vol.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/vol.webm",
+      "naam": "vol"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/pootje baden.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/pootje baden.webm",
+      "naam": "pootje baden"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/het zandkasteel.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/het zandkasteel.webm",
+      "naam": "het zandkasteel"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de golven.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/de golven.webm",
+      "naam": "de golven"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/zwemmen.png",
+      "audio": "https://raw.githubusercontent.com/JufLauraG/focuswoordenschat/main/woorden/zwemmen.webm",
+      "naam": "zwemmen"
+    }
+  ]
+}
